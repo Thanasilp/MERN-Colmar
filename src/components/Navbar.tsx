@@ -22,7 +22,7 @@ export const Nav = () => {
       <a className="flex md:hidden">
         <img
           src="/src/assets/ic-online.svg"
-          alt="online"
+          alt="sign-up"
           className="min-h-[32px]"
         />
       </a>
@@ -38,7 +38,7 @@ export const Nav = () => {
       <nav className="hidden md:flex gap-x-4 ">
         <a href="onCampus">On Campus</a>
         <a href="#">Online</a>
-        <a href="#">Tour companies</a>
+        <a href="/sign-up">Sign up</a>
         <a href="/login">Log in</a>
       </nav>
     </header>
