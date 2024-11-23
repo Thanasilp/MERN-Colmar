@@ -1,5 +1,3 @@
-import React from "react";
-
 export const ThesisLeft = () => {
   return (
     <div className="md:w-[60%] md:px-6">

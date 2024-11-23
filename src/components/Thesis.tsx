@@ -1,4 +1,3 @@
-import React from "react";
 import { ThesisLeft } from "./ThesisLeft";
 import { ThesisRight } from "./ThesisRight";
 

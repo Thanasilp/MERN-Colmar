@@ -1,5 +1,3 @@
-import React from "react";
-
 export const ThesisRight = () => {
   return (
     <aside className="hidden md:w-[40%] md:flex md:flex-col">
